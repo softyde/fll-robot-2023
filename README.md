@@ -26,5 +26,5 @@ FIRST® LEGO® League is a shared trademark of FIRST and the LEGO Group.*
 
 
 ## Printed version
-You can find a high quality printed version of this manual at `amazon.de` for the equivalent of 15ct/page.  
+You can find a high quality printed version of this manual at `amazon.de` for the equivalent of 7ct/page.  
 `ISBN: 979-8-8530-1691-0`
