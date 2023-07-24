@@ -1,5 +1,7 @@
 # fll-robot-2023
 
+<img src="./img/by-nc.png" width="100" />
+
 This repository contains building instructions for a LEGO® robot that can be used while preparing to enter a competition.
 
 **This is not a model to be used in unmodified form in a competition such as the FIRST® LEGO® League. Rather, it serves as a quick and uncomplicated introduction in the preparation phase of a competition.**  
@@ -10,10 +12,10 @@ All parts of the basic robot come from the LEGO® Education SPIKE® Prime and it
 The frame parts are in different colors and do not come from these sets. They can be purchased from the relevant Internet sites.
 
 ## The robot with the attached frame.
-![Alt text](./img/fll_01.jpg?raw=true "Robot")
+![Robot](./img/fll_01.jpg?raw=true)
 
 ## The basic robot without frame
-![Alt text](./img/fll_02.jpg?raw=true "Base Robot")
+![Base robot](./img/fll_02.jpg?raw=true)
 
 
 ## Disclaimer
